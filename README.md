@@ -1,2 +1,2 @@
 # Android-Site
- O site fala sobre a história da logo do Android, sendo totalmente responsivo em qualquer dispositivo. Ele foi feito apenas em Html e Css.
+The site talks about the history of the Android logo, being fully responsive on any device. It was done in Html and Css only.
